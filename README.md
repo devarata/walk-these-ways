@@ -36,7 +36,7 @@ The task involves setting up an environment with walls, implementing a Navigator
 #### Dog walking towards the goal line (Backward - Random spawning)
 [![Thumbnail for Plan] <img width="649" alt="Thumbnail for 80" src="https://github.com/devarata/walk-these-ways/assets/26374240/295e7282-7268-401d-b7f6-968c5371475e">](https://github.com/devarata/walk-these-ways/assets/26374240/a3112c08-bb4b-4d5a-96c8-add0d4eb1471)
 
-#### Dog walking towards the goal line (Forward - Random spawning)
+#### Dog realigning itself towards the goal line (Forward - Random spawning)
 [![Thumbnail for Plan] <img width="649" alt="Thumbnail for 80" src="https://github.com/devarata/walk-these-ways/assets/26374240/295e7282-7268-401d-b7f6-968c5371475e">](https://github.com/devarata/walk-these-ways/assets/26374240/a95445a4-54fc-4f25-afff-d139e6a6eb21)
 
 
