@@ -53,6 +53,21 @@ We add an immovable obstacle to the existing environment and train the policy to
 #### Diagram of the environment with the obstacle
 <img width="516" alt="Box with Obstacle Environment" src="https://github.com/devarata/walk-these-ways/assets/26374240/28904218-c62a-4a9c-84fa-17b79bf1207d">
 
+### Results
+
+
+https://github.com/devarata/walk-these-ways/assets/26374240/7dd6d787-5eac-4cab-aa1f-b3998e903581
+
+
+
+https://github.com/devarata/walk-these-ways/assets/26374240/e4c478fa-0924-4483-8d82-08db30799360
+
+
+
+https://github.com/devarata/walk-these-ways/assets/26374240/1cd0242e-8b27-448f-8614-db241919de82
+
+
+
 
 
 
